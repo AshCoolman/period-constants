@@ -1,0 +1,20 @@
+{
+  "name": "period-constants",
+  "version": "0.0.1",
+  "description": "Commonly used periods as constants",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "keywords": [
+    "time",
+    "constants",
+    "numbers"
+  ],
+  "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/AshCoolman/period-constants"
+  },
+  "author": "Ashley Coleman <writetofish@gmail.com> (http://ashcoolman.com)",
+  "license": "ISC"
+}
