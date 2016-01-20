@@ -1,6 +1,6 @@
 {
   "name": "period-constants",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Commonly used periods as constants",
   "main": "index.js",
   "scripts": {
