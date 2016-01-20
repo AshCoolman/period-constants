@@ -1,15 +1,16 @@
 "use strict";
+var MS,SECOND,SEC,MINUTE,MIN,HOUR,HR,DAY,WEEK,WK,YEAR,YR,DECADE,DEC,CENTUARY,CEN,MILLENIUM;
 
-var MS = 1;
-var SECOND = SEC = 1000 * MS;
-var MINUTE = MIN = 60 * SEC;
-var HOUR = HR = 60 * MIN;
-var DAY = 24 * HOUR;
-var WEEK = WK = 7 * DAY;
-var YEAR = YR = 365 * DAY;
-var DECADE = DEC = 10 * YEAR;
-var CENTUARY = CEN = 100 * YEAR;
-var MILLENIUM = 1000 * YEAR;
+MS = 1;
+SECOND = SEC = 1000 * MS;
+MINUTE = MIN = 60 * SEC;
+HOUR = HR = 60 * MIN;
+DAY = 24 * HOUR;
+WEEK = WK = 7 * DAY;
+YEAR = YR = 365 * DAY;
+DECADE = DEC = 10 * YEAR;
+CENTUARY = CEN = 100 * YEAR;
+MILLENIUM = 1000 * YEAR;
 
 module.exports = {
     MS: MS,
